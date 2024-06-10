@@ -43,7 +43,7 @@ Você pode encurtar uma URL fazendo uma requisição POST para o endpoint `/shor
     ```
 3. Inicie os serviços do Docker:
     ```sh
-    docker-compose up -d
+    docker-compose up
     ```
 4. Execute a aplicação:
     ```sh
