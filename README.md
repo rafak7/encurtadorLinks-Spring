@@ -52,10 +52,3 @@ Você pode encurtar uma URL fazendo uma requisição POST para o endpoint `/shor
 
 Acesse a aplicação em `http://localhost:8080`.
 
-## 😃 Conheça mais sobre o nosso trabalho
-
-Para mais informações e projetos, siga-nos nas redes sociais e visite nosso site!
-
----
-
-🌟 Não se esqueça de deixar uma estrela no repositório se você gostou do projeto!
