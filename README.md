@@ -1,4 +1,4 @@
-# Desafio Backend: Encurtador de URL
+# Encurtador de URL
 
 Resolução do desafio proposto pelo repositório Backend Brasil, confira detalhes neste [link](https://github.com/Backend-Brasil).
 
