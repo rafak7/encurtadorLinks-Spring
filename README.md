@@ -1,6 +1,6 @@
 # Encurtador de URL
 
-Resolução do desafio proposto pelo repositório Backend Brasil, confira detalhes neste [link](https://github.com/Backend-Brasil).
+Resolução do desafio proposto pelo repositório Backend Brasil, confira detalhes neste [link](https://github.com/backend-br/desafios/blob/master/url-shortener/PROBLEM.md).
 
 ## 🚀 Tecnologias utilizadas
 - Java
